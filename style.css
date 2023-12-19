@@ -1,14 +1,16 @@
 .title{
     text-align:center;
     font-family: "Times New Roman";
+    border-bottom:10px double white;
 }
 
 body{
-    background-color: bisque;
+    background-color: #cefad0;
 }
 
 img{
-
+margin: 0px auto;
+display:block;
     
 }
 
